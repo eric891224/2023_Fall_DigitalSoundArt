@@ -1,0 +1,8 @@
+#N canvas 753 337 777 519 12;
+#X obj 209 51 inlet;
+#X obj 222 418 outlet~;
+#X obj 214 236 clone waveSynth.cl 32;
+#X msg 212 136 next \$1 \$2;
+#X connect 0 0 3 0;
+#X connect 2 0 1 0;
+#X connect 3 0 2 0;
