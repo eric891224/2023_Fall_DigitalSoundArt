@@ -1,0 +1,56 @@
+# ==============================================================================
+# File: "C:\Users\user\file.txt"
+# Exported by: user
+# user@DESKTOP-BPTK3KO - Windows 11
+# 15-dec-2023 21:20:28
+# Origin: spat5.speaker.config [5.3.2] - Max [???] - x86_64
+# Content: 48 OSC messages
+# ==============================================================================
+/speaker/number 8
+/speakers/correction/delay "off"
+/speakers/correction/gain "off"
+/speakers/aed 0.0 0.0 1.0 45.0 0.0 1.0 90.0 0.0 1.0 135.0 0.0 1.0 -180.0 0.0 1.0 -135.0 0.0 1.0 -90.0 0.0 1.0 -45.0 0.0 1.0
+/speaker/1/delay 0.0
+/speaker/2/delay 0.0
+/speaker/3/delay 0.0
+/speaker/4/delay 0.0
+/speaker/5/delay 0.0
+/speaker/6/delay 0.0
+/speaker/7/delay 0.0
+/speaker/8/delay 0.0
+/speaker/1/gain/db 0.0
+/speaker/2/gain/db 0.0
+/speaker/3/gain/db 0.0
+/speaker/4/gain/db 0.0
+/speaker/5/gain/db 0.0
+/speaker/6/gain/db 0.0
+/speaker/7/gain/db 0.0
+/speaker/8/gain/db 0.0
+/speaker/1/name "1"
+/speaker/2/name "2"
+/speaker/3/name "3"
+/speaker/4/name "4"
+/speaker/5/name "5"
+/speaker/6/name "6"
+/speaker/7/name "7"
+/speaker/8/name "8"
+/usurp 0
+/window/title "Speaker Config"
+/window/visible 0
+/window/moveable 1
+/window/resizable 1
+/window/enable 1
+/window/bounds -920 926 808 509
+/window/background/color 0.827451 0.827451 0.827451 1.0
+/window/opaque 1
+/window/titlebar 1
+/window/fullscreen 0
+/window/minimise 0
+/window/scale 100.0
+/window/rendering/engine ""
+/window/rendering/fps/visible 0
+/window/floating 0
+/window/hidesondeactivate 0
+/window/buttons/close 1
+/window/buttons/minimise 1
+/window/buttons/maximise 1
